@@ -1,0 +1,23 @@
+[Google Light]
+text=373b41
+text(bold)=373b41
+background=ffffff
+black=ffffff
+black(bold)=b4b7b4
+red=CC342B
+red(bold)=F96A38
+green=198844
+green(bold)=e0e0e0
+yellow=FBA922
+yellow(bold)=c5c8c6
+blue=3971ED
+blue(bold)=969896
+magenta=A36AC7
+magenta(bold)=282a2e
+cyan=3971ED
+cyan(bold)=3971ED
+white=373b41
+white(bold)=1d1f21
+[Names]
+name0=Google Light
+count=1
