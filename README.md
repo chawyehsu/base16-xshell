@@ -17,4 +17,4 @@ Download the repo, open Xshell and import your favorite scheme from `Tools` -> `
 License
 -------
 
-MIT
+MIT @ [Chawye Hsu](https://github.com/h404bi)

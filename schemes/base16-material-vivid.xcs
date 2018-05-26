@@ -1,0 +1,23 @@
+[Material Vivid]
+text=B0BEC5
+text(bold)=B0BEC5
+background=263238
+black=263238
+black(bold)=546E7A
+red=FF1744
+red(bold)=FF9100
+green=00E676
+green(bold)=37474F
+yellow=FFC400
+yellow(bold)=455A64
+blue=2979FF
+blue(bold)=90A4AE
+magenta=651FFF
+magenta(bold)=CFD8DC
+cyan=00B0FF
+cyan(bold)=8D6E63
+white=B0BEC5
+white(bold)=ECEFF1
+[Names]
+name0=Material Vivid
+count=1
