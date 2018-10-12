@@ -1,9 +1,9 @@
 [Zenburn]
 text=dcdccc
 text(bold)=dcdccc
-background=3f3f3f
-black=3f3f3f
-black(bold)=4f4f4f
+background=383838
+black=383838
+black(bold)=6f6f6f
 red=dca3a3
 red(bold)=dfaf8f
 green=5f7f5f
