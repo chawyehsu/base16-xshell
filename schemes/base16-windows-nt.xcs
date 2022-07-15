@@ -1,4 +1,4 @@
-[Windows NT]
+[Base16 Windows NT]
 text=c0c0c0
 text(bold)=c0c0c0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=008000
 white=c0c0c0
 white(bold)=ffffff
 [Names]
-name0=Windows NT
+name0=Base16 Windows NT
 count=1

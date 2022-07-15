@@ -1,4 +1,4 @@
-[Flat]
+[Base16 Flat]
 text=e0e0e0
 text(bold)=e0e0e0
 background=2c3e50
@@ -19,5 +19,5 @@ cyan(bold)=be643c
 white=e0e0e0
 white(bold)=ecf0f1
 [Names]
-name0=Flat
+name0=Base16 Flat
 count=1

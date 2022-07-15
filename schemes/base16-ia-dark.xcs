@@ -1,4 +1,4 @@
-[iA Dark]
+[Base16 iA Dark]
 text=cccccc
 text(bold)=cccccc
 background=1a1a1a
@@ -19,5 +19,5 @@ cyan(bold)=8b6c37
 white=cccccc
 white(bold)=f8f8f8
 [Names]
-name0=iA Dark
+name0=Base16 iA Dark
 count=1

@@ -1,4 +1,4 @@
-[Nord]
+[Base16 Nord]
 text=e5e9f0
 text(bold)=e5e9f0
 background=2e3440
@@ -19,5 +19,5 @@ cyan(bold)=5e81ac
 white=e5e9f0
 white(bold)=8fbcbb
 [Names]
-name0=Nord
+name0=Base16 Nord
 count=1

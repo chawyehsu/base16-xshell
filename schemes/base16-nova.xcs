@@ -1,4 +1,4 @@
-[Nova]
+[Base16 Nova]
 text=c5d4dd
 text(bold)=c5d4dd
 background=3c4c55
@@ -19,5 +19,5 @@ cyan(bold)=f2c38f
 white=c5d4dd
 white(bold)=556873
 [Names]
-name0=Nova
+name0=Base16 Nova
 count=1

@@ -1,4 +1,4 @@
-[Tokyodark Terminal]
+[Base16 Tokyodark Terminal]
 text=a0a8cd
 text(bold)=a0a8cd
 background=11121d
@@ -19,5 +19,5 @@ cyan(bold)=773440
 white=a0a8cd
 white(bold)=a0a8cd
 [Names]
-name0=Tokyodark Terminal
+name0=Base16 Tokyodark Terminal
 count=1

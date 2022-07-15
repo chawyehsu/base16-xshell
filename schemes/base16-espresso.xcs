@@ -1,4 +1,4 @@
-[Espresso]
+[Base16 Espresso]
 text=cccccc
 text(bold)=cccccc
 background=2d2d2d
@@ -19,5 +19,5 @@ cyan(bold)=f97394
 white=cccccc
 white(bold)=ffffff
 [Names]
-name0=Espresso
+name0=Base16 Espresso
 count=1

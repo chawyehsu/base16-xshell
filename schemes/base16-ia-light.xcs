@@ -1,4 +1,4 @@
-[iA Light]
+[Base16 iA Light]
 text=181818
 text(bold)=181818
 background=f6f6f6
@@ -19,5 +19,5 @@ cyan(bold)=8b6c37
 white=181818
 white(bold)=f8f8f8
 [Names]
-name0=iA Light
+name0=Base16 iA Light
 count=1

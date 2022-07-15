@@ -1,4 +1,4 @@
-[Heetch Dark]
+[Base16 Heetch Dark]
 text=bdb6c5
 text(bold)=bdb6c5
 background=190134
@@ -19,5 +19,5 @@ cyan(bold)=470546
 white=bdb6c5
 white(bold)=feffff
 [Names]
-name0=Heetch Dark
+name0=Base16 Heetch Dark
 count=1

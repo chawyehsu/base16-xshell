@@ -1,4 +1,4 @@
-[Macintosh]
+[Base16 Macintosh]
 text=c0c0c0
 text(bold)=c0c0c0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=90713a
 white=c0c0c0
 white(bold)=ffffff
 [Names]
-name0=Macintosh
+name0=Base16 Macintosh
 count=1

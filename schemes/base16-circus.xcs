@@ -1,4 +1,4 @@
-[Circus]
+[Base16 Circus]
 text=a7a7a7
 text(bold)=a7a7a7
 background=191919
@@ -19,5 +19,5 @@ cyan(bold)=b888e2
 white=a7a7a7
 white(bold)=ffffff
 [Names]
-name0=Circus
+name0=Base16 Circus
 count=1

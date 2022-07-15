@@ -1,4 +1,4 @@
-[Da One Ocean]
+[Base16 Da One Ocean]
 text=ffffff
 text(bold)=ffffff
 background=171726
@@ -19,5 +19,5 @@ cyan(bold)=b3684f
 white=ffffff
 white(bold)=ffffff
 [Names]
-name0=Da One Ocean
+name0=Base16 Da One Ocean
 count=1

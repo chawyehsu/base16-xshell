@@ -1,4 +1,4 @@
-[Atelier Cave Light]
+[Base16 Atelier Cave Light]
 text=585260
 text(bold)=585260
 background=efecf4
@@ -19,5 +19,5 @@ cyan(bold)=bf40bf
 white=585260
 white(bold)=19171c
 [Names]
-name0=Atelier Cave Light
+name0=Base16 Atelier Cave Light
 count=1

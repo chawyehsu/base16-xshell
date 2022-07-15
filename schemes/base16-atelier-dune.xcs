@@ -1,4 +1,4 @@
-[Atelier Dune]
+[Base16 Atelier Dune]
 text=a6a28c
 text(bold)=a6a28c
 background=20201d
@@ -19,5 +19,5 @@ cyan(bold)=d43552
 white=a6a28c
 white(bold)=fefbec
 [Names]
-name0=Atelier Dune
+name0=Base16 Atelier Dune
 count=1

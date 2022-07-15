@@ -1,4 +1,4 @@
-[Dark Violet]
+[Base16 Dark Violet]
 text=b08ae6
 text(bold)=b08ae6
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=a886bf
 white=b08ae6
 white(bold)=a366ff
 [Names]
-name0=Dark Violet
+name0=Base16 Dark Violet
 count=1

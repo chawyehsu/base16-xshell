@@ -1,4 +1,4 @@
-[Helios]
+[Base16 Helios]
 text=d5d5d5
 text(bold)=d5d5d5
 background=1d2021
@@ -19,5 +19,5 @@ cyan(bold)=c85e0d
 white=d5d5d5
 white(bold)=e5e5e5
 [Names]
-name0=Helios
+name0=Base16 Helios
 count=1

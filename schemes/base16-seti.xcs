@@ -1,4 +1,4 @@
-[Seti UI]
+[Base16 Seti UI]
 text=d6d6d6
 text(bold)=d6d6d6
 background=151718
@@ -19,5 +19,5 @@ cyan(bold)=8a553f
 white=d6d6d6
 white(bold)=ffffff
 [Names]
-name0=Seti UI
+name0=Base16 Seti UI
 count=1

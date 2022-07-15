@@ -1,4 +1,4 @@
-[Harmonic16 Dark]
+[Base16 Harmonic16 Dark]
 text=cbd6e2
 text(bold)=cbd6e2
 background=0b1c2c
@@ -19,5 +19,5 @@ cyan(bold)=bf5656
 white=cbd6e2
 white(bold)=f7f9fb
 [Names]
-name0=Harmonic16 Dark
+name0=Base16 Harmonic16 Dark
 count=1

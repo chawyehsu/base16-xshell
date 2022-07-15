@@ -1,4 +1,4 @@
-[Tomorrow Night]
+[Base16 Tomorrow Night]
 text=c5c8c6
 text(bold)=c5c8c6
 background=1d1f21
@@ -19,5 +19,5 @@ cyan(bold)=a3685a
 white=c5c8c6
 white(bold)=ffffff
 [Names]
-name0=Tomorrow Night
+name0=Base16 Tomorrow Night
 count=1

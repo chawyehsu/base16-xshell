@@ -1,4 +1,4 @@
-[Darktooth]
+[Base16 Darktooth]
 text=a89984
 text(bold)=a89984
 background=1d2021
@@ -19,5 +19,5 @@ cyan(bold)=a87322
 white=a89984
 white(bold)=fdf4c1
 [Names]
-name0=Darktooth
+name0=Base16 Darktooth
 count=1

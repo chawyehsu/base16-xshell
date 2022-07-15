@@ -1,4 +1,4 @@
-[tender]
+[Base16 tender]
 text=eeeeee
 text(bold)=eeeeee
 background=282828
@@ -19,5 +19,5 @@ cyan(bold)=a16946
 white=eeeeee
 white(bold)=feffff
 [Names]
-name0=tender
+name0=Base16 tender
 count=1

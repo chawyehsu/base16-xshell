@@ -1,4 +1,4 @@
-[Outrun Dark]
+[Base16 Outrun Dark]
 text=d0d0fa
 text(bold)=d0d0fa
 background=00002a
@@ -19,5 +19,5 @@ cyan(bold)=f003ef
 white=d0d0fa
 white(bold)=f5f5ff
 [Names]
-name0=Outrun Dark
+name0=Base16 Outrun Dark
 count=1

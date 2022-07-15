@@ -1,4 +1,4 @@
-[Sagelight]
+[Base16 Sagelight]
 text=383838
 text(bold)=383838
 background=f8f8f8
@@ -19,5 +19,5 @@ cyan(bold)=d2b2a0
 white=383838
 white(bold)=181818
 [Names]
-name0=Sagelight
+name0=Base16 Sagelight
 count=1

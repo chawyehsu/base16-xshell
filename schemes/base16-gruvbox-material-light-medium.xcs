@@ -1,4 +1,4 @@
-[Gruvbox Material Light, Medium]
+[Base16 Gruvbox Material Light, Medium]
 text=654735
 text(bold)=654735
 background=fbf1c7
@@ -19,5 +19,5 @@ cyan(bold)=e78a4e
 white=654735
 white(bold)=282828
 [Names]
-name0=Gruvbox Material Light, Medium
+name0=Base16 Gruvbox Material Light, Medium
 count=1

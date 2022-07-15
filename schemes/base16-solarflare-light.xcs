@@ -1,4 +1,4 @@
-[Solar Flare Light]
+[Base16 Solar Flare Light]
 text=586875
 text(bold)=586875
 background=f5f7fa
@@ -19,5 +19,5 @@ cyan(bold)=d73c9a
 white=586875
 white(bold)=18262f
 [Names]
-name0=Solar Flare Light
+name0=Base16 Solar Flare Light
 count=1

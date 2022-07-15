@@ -1,4 +1,4 @@
-[Spacemacs]
+[Base16 Spacemacs]
 text=a3a3a3
 text(bold)=a3a3a3
 background=1f2022
@@ -19,5 +19,5 @@ cyan(bold)=b03060
 white=a3a3a3
 white(bold)=f8f8f8
 [Names]
-name0=Spacemacs
+name0=Base16 Spacemacs
 count=1

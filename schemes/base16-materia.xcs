@@ -1,4 +1,4 @@
-[Materia]
+[Base16 Materia]
 text=cdd3de
 text(bold)=cdd3de
 background=263238
@@ -19,5 +19,5 @@ cyan(bold)=ec5f67
 white=cdd3de
 white(bold)=ffffff
 [Names]
-name0=Materia
+name0=Base16 Materia
 count=1

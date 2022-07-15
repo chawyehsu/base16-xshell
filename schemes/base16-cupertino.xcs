@@ -1,4 +1,4 @@
-[Cupertino]
+[Base16 Cupertino]
 text=404040
 text(bold)=404040
 background=ffffff
@@ -19,5 +19,5 @@ cyan(bold)=826b28
 white=404040
 white(bold)=5e5e5e
 [Names]
-name0=Cupertino
+name0=Base16 Cupertino
 count=1

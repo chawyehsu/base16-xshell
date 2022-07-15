@@ -1,4 +1,4 @@
-[Equilibrium Light]
+[Base16 Equilibrium Light]
 text=43474e
 text(bold)=43474e
 background=f5f0e7
@@ -19,5 +19,5 @@ cyan(bold)=c42775
 white=43474e
 white(bold)=181c22
 [Names]
-name0=Equilibrium Light
+name0=Base16 Equilibrium Light
 count=1

@@ -1,4 +1,4 @@
-[Dracula]
+[Base16 Dracula]
 text=e9e9f4
 text(bold)=e9e9f4
 background=282936
@@ -19,5 +19,5 @@ cyan(bold)=00f769
 white=e9e9f4
 white(bold)=f7f7fb
 [Names]
-name0=Dracula
+name0=Base16 Dracula
 count=1

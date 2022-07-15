@@ -1,4 +1,4 @@
-[Atelier Sulphurpool]
+[Base16 Atelier Sulphurpool]
 text=979db4
 text(bold)=979db4
 background=202746
@@ -19,5 +19,5 @@ cyan(bold)=9c637a
 white=979db4
 white(bold)=f5f7ff
 [Names]
-name0=Atelier Sulphurpool
+name0=Base16 Atelier Sulphurpool
 count=1

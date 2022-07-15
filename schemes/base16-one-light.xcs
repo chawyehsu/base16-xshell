@@ -1,4 +1,4 @@
-[One Light]
+[Base16 One Light]
 text=383a42
 text(bold)=383a42
 background=fafafa
@@ -19,5 +19,5 @@ cyan(bold)=986801
 white=383a42
 white(bold)=090a0b
 [Names]
-name0=One Light
+name0=Base16 One Light
 count=1

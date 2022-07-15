@@ -1,4 +1,4 @@
-[vulcan]
+[Base16 vulcan]
 text=5b778c
 text(bold)=5b778c
 background=041523
@@ -19,5 +19,5 @@ cyan(bold)=977d7c
 white=5b778c
 white(bold)=214d68
 [Names]
-name0=vulcan
+name0=Base16 vulcan
 count=1

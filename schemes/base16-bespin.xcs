@@ -1,4 +1,4 @@
-[Bespin]
+[Base16 Bespin]
 text=8a8986
 text(bold)=8a8986
 background=28211c
@@ -19,5 +19,5 @@ cyan(bold)=937121
 white=8a8986
 white(bold)=baae9e
 [Names]
-name0=Bespin
+name0=Base16 Bespin
 count=1

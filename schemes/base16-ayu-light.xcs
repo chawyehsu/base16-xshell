@@ -1,4 +1,4 @@
-[Ayu Light]
+[Base16 Ayu Light]
 text=5c6773
 text(bold)=5c6773
 background=fafafa
@@ -19,5 +19,5 @@ cyan(bold)=e6ba7e
 white=5c6773
 white(bold)=1a1f29
 [Names]
-name0=Ayu Light
+name0=Base16 Ayu Light
 count=1

@@ -1,4 +1,4 @@
-[Atelier Plateau Light]
+[Base16 Atelier Plateau Light]
 text=585050
 text(bold)=585050
 background=f4ecec
@@ -19,5 +19,5 @@ cyan(bold)=bd5187
 white=585050
 white(bold)=1b1818
 [Names]
-name0=Atelier Plateau Light
+name0=Base16 Atelier Plateau Light
 count=1

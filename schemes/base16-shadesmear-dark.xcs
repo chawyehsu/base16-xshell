@@ -1,4 +1,4 @@
-[ShadeSmear Dark]
+[Base16 ShadeSmear Dark]
 text=dbdbdb
 text(bold)=dbdbdb
 background=232323
@@ -19,5 +19,5 @@ cyan(bold)=6d6d6d
 white=dbdbdb
 white(bold)=1c1c1c
 [Names]
-name0=ShadeSmear Dark
+name0=Base16 ShadeSmear Dark
 count=1

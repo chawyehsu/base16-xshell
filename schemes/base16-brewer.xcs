@@ -1,4 +1,4 @@
-[Brewer]
+[Base16 Brewer]
 text=b7b8b9
 text(bold)=b7b8b9
 background=0c0d0e
@@ -19,5 +19,5 @@ cyan(bold)=b15928
 white=b7b8b9
 white(bold)=fcfdfe
 [Names]
-name0=Brewer
+name0=Base16 Brewer
 count=1

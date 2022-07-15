@@ -1,4 +1,4 @@
-[Cupcake]
+[Base16 Cupcake]
 text=8b8198
 text(bold)=8b8198
 background=fbf1f2
@@ -19,5 +19,5 @@ cyan(bold)=baa58c
 white=8b8198
 white(bold)=585062
 [Names]
-name0=Cupcake
+name0=Base16 Cupcake
 count=1

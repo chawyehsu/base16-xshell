@@ -1,4 +1,4 @@
-[Harmonic16 Light]
+[Base16 Harmonic16 Light]
 text=405c79
 text(bold)=405c79
 background=f7f9fb
@@ -19,5 +19,5 @@ cyan(bold)=bf5656
 white=405c79
 white(bold)=0b1c2c
 [Names]
-name0=Harmonic16 Light
+name0=Base16 Harmonic16 Light
 count=1

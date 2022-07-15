@@ -1,4 +1,4 @@
-[Atelier Plateau]
+[Base16 Atelier Plateau]
 text=8a8585
 text(bold)=8a8585
 background=1b1818
@@ -19,5 +19,5 @@ cyan(bold)=bd5187
 white=8a8585
 white(bold)=f4ecec
 [Names]
-name0=Atelier Plateau
+name0=Base16 Atelier Plateau
 count=1

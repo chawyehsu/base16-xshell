@@ -1,4 +1,4 @@
-[Twilight]
+[Base16 Twilight]
 text=a7a7a7
 text(bold)=a7a7a7
 background=1e1e1e
@@ -19,5 +19,5 @@ cyan(bold)=9b703f
 white=a7a7a7
 white(bold)=ffffff
 [Names]
-name0=Twilight
+name0=Base16 Twilight
 count=1

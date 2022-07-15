@@ -1,4 +1,4 @@
-[Purpledream]
+[Base16 Purpledream]
 text=ddd0dd
 text(bold)=ddd0dd
 background=100510
@@ -19,5 +19,5 @@ cyan(bold)=6a2a3c
 white=ddd0dd
 white(bold)=fff0ff
 [Names]
-name0=Purpledream
+name0=Base16 Purpledream
 count=1

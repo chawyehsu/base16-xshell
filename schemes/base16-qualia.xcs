@@ -1,4 +1,4 @@
-[Qualia]
+[Base16 Qualia]
 text=c0c0c0
 text(bold)=c0c0c0
 background=101010
@@ -19,5 +19,5 @@ cyan(bold)=808080
 white=c0c0c0
 white(bold)=454545
 [Names]
-name0=Qualia
+name0=Base16 Qualia
 count=1

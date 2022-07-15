@@ -1,4 +1,4 @@
-[EverForest]
+[Base16 EverForest]
 text=d3c6aa
 text(bold)=d3c6aa
 background=2b3339
@@ -19,5 +19,5 @@ cyan(bold)=d699b6
 white=d3c6aa
 white(bold)=fff9e8
 [Names]
-name0=EverForest
+name0=Base16 EverForest
 count=1

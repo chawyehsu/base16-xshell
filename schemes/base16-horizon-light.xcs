@@ -1,4 +1,4 @@
-[Horizon Light]
+[Base16 Horizon Light]
 text=403c3d
 text(bold)=403c3d
 background=fdf0ed
@@ -19,5 +19,5 @@ cyan(bold)=e58c92
 white=403c3d
 white(bold)=201c1d
 [Names]
-name0=Horizon Light
+name0=Base16 Horizon Light
 count=1

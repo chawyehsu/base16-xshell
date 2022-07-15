@@ -1,4 +1,4 @@
-[Shapeshifter]
+[Base16 Shapeshifter]
 text=102015
 text(bold)=102015
 background=f9f9f9
@@ -19,5 +19,5 @@ cyan(bold)=69542d
 white=102015
 white(bold)=000000
 [Names]
-name0=Shapeshifter
+name0=Base16 Shapeshifter
 count=1

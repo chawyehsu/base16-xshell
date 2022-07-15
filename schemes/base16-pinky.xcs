@@ -1,4 +1,4 @@
-[pinky]
+[Base16 pinky]
 text=f5f5f5
 text(bold)=f5f5f5
 background=171517
@@ -19,5 +19,5 @@ cyan(bold)=df206c
 white=f5f5f5
 white(bold)=f7f3f7
 [Names]
-name0=pinky
+name0=Base16 pinky
 count=1

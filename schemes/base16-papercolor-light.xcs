@@ -1,4 +1,4 @@
-[PaperColor Light]
+[Base16 PaperColor Light]
 text=444444
 text(bold)=444444
 background=eeeeee
@@ -19,5 +19,5 @@ cyan(bold)=005f87
 white=444444
 white(bold)=878787
 [Names]
-name0=PaperColor Light
+name0=Base16 PaperColor Light
 count=1

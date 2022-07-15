@@ -1,4 +1,4 @@
-[Grayscale Light]
+[Base16 Grayscale Light]
 text=464646
 text(bold)=464646
 background=f7f7f7
@@ -19,5 +19,5 @@ cyan(bold)=5e5e5e
 white=464646
 white(bold)=101010
 [Names]
-name0=Grayscale Light
+name0=Base16 Grayscale Light
 count=1

@@ -1,4 +1,4 @@
-[Rosé Pine]
+[Base16 Rosé Pine]
 text=e0def4
 text(bold)=e0def4
 background=191724
@@ -19,5 +19,5 @@ cyan(bold)=e5e5e5
 white=e0def4
 white(bold)=c5c3ce
 [Names]
-name0=Rosé Pine
+name0=Base16 Rosé Pine
 count=1

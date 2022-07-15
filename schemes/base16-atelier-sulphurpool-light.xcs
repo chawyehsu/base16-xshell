@@ -1,4 +1,4 @@
-[Atelier Sulphurpool Light]
+[Base16 Atelier Sulphurpool Light]
 text=5e6687
 text(bold)=5e6687
 background=f5f7ff
@@ -19,5 +19,5 @@ cyan(bold)=9c637a
 white=5e6687
 white(bold)=202746
 [Names]
-name0=Atelier Sulphurpool Light
+name0=Base16 Atelier Sulphurpool Light
 count=1

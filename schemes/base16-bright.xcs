@@ -1,4 +1,4 @@
-[Bright]
+[Base16 Bright]
 text=e0e0e0
 text(bold)=e0e0e0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=be643c
 white=e0e0e0
 white(bold)=ffffff
 [Names]
-name0=Bright
+name0=Base16 Bright
 count=1

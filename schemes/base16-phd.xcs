@@ -1,4 +1,4 @@
-[PhD]
+[Base16 PhD]
 text=b8bbc2
 text(bold)=b8bbc2
 background=061229
@@ -19,5 +19,5 @@ cyan(bold)=b08060
 white=b8bbc2
 white(bold)=ffffff
 [Names]
-name0=PhD
+name0=Base16 PhD
 count=1

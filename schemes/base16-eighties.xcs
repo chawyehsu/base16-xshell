@@ -1,4 +1,4 @@
-[Eighties]
+[Base16 Eighties]
 text=d3d0c8
 text(bold)=d3d0c8
 background=2d2d2d
@@ -19,5 +19,5 @@ cyan(bold)=d27b53
 white=d3d0c8
 white(bold)=f2f0ec
 [Names]
-name0=Eighties
+name0=Base16 Eighties
 count=1

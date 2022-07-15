@@ -1,4 +1,4 @@
-[Pico]
+[Base16 Pico]
 text=5f574f
 text(bold)=5f574f
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=ffccaa
 white=5f574f
 white(bold)=fff1e8
 [Names]
-name0=Pico
+name0=Base16 Pico
 count=1

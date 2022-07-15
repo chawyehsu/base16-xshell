@@ -1,4 +1,4 @@
-[Green Screen]
+[Base16 Green Screen]
 text=00bb00
 text(bold)=00bb00
 background=001100
@@ -19,5 +19,5 @@ cyan(bold)=005500
 white=00bb00
 white(bold)=00ff00
 [Names]
-name0=Green Screen
+name0=Base16 Green Screen
 count=1

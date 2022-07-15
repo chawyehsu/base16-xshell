@@ -1,4 +1,4 @@
-[Atelier Lakeside Light]
+[Base16 Atelier Lakeside Light]
 text=516d7b
 text(bold)=516d7b
 background=ebf8ff
@@ -19,5 +19,5 @@ cyan(bold)=b72dd2
 white=516d7b
 white(bold)=161b1d
 [Names]
-name0=Atelier Lakeside Light
+name0=Base16 Atelier Lakeside Light
 count=1

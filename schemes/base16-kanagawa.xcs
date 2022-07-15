@@ -1,4 +1,4 @@
-[Kanagawa]
+[Base16 Kanagawa]
 text=dcd7ba
 text(bold)=dcd7ba
 background=1f1f28
@@ -19,5 +19,5 @@ cyan(bold)=d27e99
 white=dcd7ba
 white(bold)=717c7c
 [Names]
-name0=Kanagawa
+name0=Base16 Kanagawa
 count=1

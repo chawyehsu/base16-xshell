@@ -1,4 +1,4 @@
-[London Tube]
+[Base16 London Tube]
 text=d9d8d8
 text(bold)=d9d8d8
 background=231f20
@@ -19,5 +19,5 @@ cyan(bold)=b06110
 white=d9d8d8
 white(bold)=ffffff
 [Names]
-name0=London Tube
+name0=Base16 London Tube
 count=1

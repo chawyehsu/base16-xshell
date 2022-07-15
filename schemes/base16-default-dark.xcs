@@ -1,4 +1,4 @@
-[Default Dark]
+[Base16 Default Dark]
 text=d8d8d8
 text(bold)=d8d8d8
 background=181818
@@ -19,5 +19,5 @@ cyan(bold)=a16946
 white=d8d8d8
 white(bold)=f8f8f8
 [Names]
-name0=Default Dark
+name0=Base16 Default Dark
 count=1

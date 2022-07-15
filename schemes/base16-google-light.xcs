@@ -1,4 +1,4 @@
-[Google Light]
+[Base16 Google Light]
 text=373b41
 text(bold)=373b41
 background=ffffff
@@ -19,5 +19,5 @@ cyan(bold)=3971ed
 white=373b41
 white(bold)=1d1f21
 [Names]
-name0=Google Light
+name0=Base16 Google Light
 count=1

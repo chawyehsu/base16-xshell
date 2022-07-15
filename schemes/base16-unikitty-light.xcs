@@ -1,4 +1,4 @@
-[Unikitty Light]
+[Base16 Unikitty Light]
 text=6c696e
 text(bold)=6c696e
 background=ffffff
@@ -19,5 +19,5 @@ cyan(bold)=e013d0
 white=6c696e
 white(bold)=322d34
 [Names]
-name0=Unikitty Light
+name0=Base16 Unikitty Light
 count=1

@@ -1,4 +1,4 @@
-[Windows 95]
+[Base16 Windows 95]
 text=a8a8a8
 text(bold)=a8a8a8
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=00a800
 white=a8a8a8
 white(bold)=fcfcfc
 [Names]
-name0=Windows 95
+name0=Base16 Windows 95
 count=1

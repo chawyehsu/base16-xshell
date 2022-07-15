@@ -1,4 +1,4 @@
-[Mellow Purple]
+[Base16 Mellow Purple]
 text=ffeeff
 text(bold)=ffeeff
 background=1e0528
@@ -19,5 +19,5 @@ cyan(bold)=4d6fff
 white=ffeeff
 white(bold)=f8c0ff
 [Names]
-name0=Mellow Purple
+name0=Base16 Mellow Purple
 count=1

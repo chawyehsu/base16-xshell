@@ -1,4 +1,4 @@
-[Hardcore]
+[Base16 Hardcore]
 text=cdcdcd
 text(bold)=cdcdcd
 background=212121
@@ -19,5 +19,5 @@ cyan(bold)=e8b882
 white=cdcdcd
 white(bold)=ffffff
 [Names]
-name0=Hardcore
+name0=Base16 Hardcore
 count=1

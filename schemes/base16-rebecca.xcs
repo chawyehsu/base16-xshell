@@ -1,4 +1,4 @@
-[Rebecca]
+[Base16 Rebecca]
 text=f1eff8
 text(bold)=f1eff8
 background=292a44
@@ -19,5 +19,5 @@ cyan(bold)=ff79c6
 white=f1eff8
 white(bold)=53495d
 [Names]
-name0=Rebecca
+name0=Base16 Rebecca
 count=1

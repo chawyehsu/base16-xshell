@@ -1,4 +1,4 @@
-[Tango]
+[Base16 Tango]
 text=d3d7cf
 text(bold)=d3d7cf
 background=2e3436
@@ -19,5 +19,5 @@ cyan(bold)=34e2e2
 white=d3d7cf
 white(bold)=eeeeec
 [Names]
-name0=Tango
+name0=Base16 Tango
 count=1

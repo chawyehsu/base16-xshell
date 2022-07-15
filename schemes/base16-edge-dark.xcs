@@ -1,4 +1,4 @@
-[Edge Dark]
+[Base16 Edge Dark]
 text=b7bec9
 text(bold)=b7bec9
 background=262729
@@ -19,5 +19,5 @@ cyan(bold)=5ebaa5
 white=b7bec9
 white(bold)=3e4249
 [Names]
-name0=Edge Dark
+name0=Base16 Edge Dark
 count=1

@@ -1,4 +1,4 @@
-[dirtysea]
+[Base16 dirtysea]
 text=000000
 text(bold)=000000
 background=e0e0e0
@@ -19,5 +19,5 @@ cyan(bold)=755b00
 white=000000
 white(bold)=c4d9c4
 [Names]
-name0=dirtysea
+name0=Base16 dirtysea
 count=1

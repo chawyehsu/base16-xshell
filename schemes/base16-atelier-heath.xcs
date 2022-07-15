@@ -1,4 +1,4 @@
-[Atelier Heath]
+[Base16 Atelier Heath]
 text=ab9bab
 text(bold)=ab9bab
 background=1b181b
@@ -19,5 +19,5 @@ cyan(bold)=cc33cc
 white=ab9bab
 white(bold)=f7f3f7
 [Names]
-name0=Atelier Heath
+name0=Base16 Atelier Heath
 count=1

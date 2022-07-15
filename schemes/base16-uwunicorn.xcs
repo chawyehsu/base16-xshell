@@ -1,4 +1,4 @@
-[UwUnicorn]
+[Base16 UwUnicorn]
 text=eed5d9
 text(bold)=eed5d9
 background=241b26
@@ -19,5 +19,5 @@ cyan(bold)=a3a079
 white=eed5d9
 white(bold)=e4ccd0
 [Names]
-name0=UwUnicorn
+name0=Base16 UwUnicorn
 count=1

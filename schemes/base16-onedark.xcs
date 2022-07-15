@@ -1,4 +1,4 @@
-[OneDark]
+[Base16 OneDark]
 text=abb2bf
 text(bold)=abb2bf
 background=282c34
@@ -19,5 +19,5 @@ cyan(bold)=be5046
 white=abb2bf
 white(bold)=c8ccd4
 [Names]
-name0=OneDark
+name0=Base16 OneDark
 count=1

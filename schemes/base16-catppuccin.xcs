@@ -1,4 +1,4 @@
-[Catppuccin]
+[Base16 Catppuccin]
 text=d7dae0
 text(bold)=d7dae0
 background=1e1e28
@@ -19,5 +19,5 @@ cyan(bold)=f2cdcd
 white=d7dae0
 white(bold)=c9cbff
 [Names]
-name0=Catppuccin
+name0=Base16 Catppuccin
 count=1

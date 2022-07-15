@@ -1,4 +1,4 @@
-[Material]
+[Base16 Material]
 text=eeffff
 text(bold)=eeffff
 background=263238
@@ -19,5 +19,5 @@ cyan(bold)=ff5370
 white=eeffff
 white(bold)=ffffff
 [Names]
-name0=Material
+name0=Base16 Material
 count=1

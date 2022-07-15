@@ -1,4 +1,4 @@
-[Tokyo Night Storm]
+[Base16 Tokyo Night Storm]
 text=a9b1d6
 text(bold)=a9b1d6
 background=24283b
@@ -19,5 +19,5 @@ cyan(bold)=f7768e
 white=a9b1d6
 white(bold)=d5d6db
 [Names]
-name0=Tokyo Night Storm
+name0=Base16 Tokyo Night Storm
 count=1

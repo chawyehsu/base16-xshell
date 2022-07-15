@@ -1,4 +1,4 @@
-[Gruber]
+[Base16 Gruber]
 text=f4f4ff
 text(bold)=f4f4ff
 background=181818
@@ -19,5 +19,5 @@ cyan(bold)=cc8c3c
 white=f4f4ff
 white(bold)=e4e4ef
 [Names]
-name0=Gruber
+name0=Base16 Gruber
 count=1

@@ -1,4 +1,4 @@
-[Material Lighter]
+[Base16 Material Lighter]
 text=80cbc4
 text(bold)=80cbc4
 background=fafafa
@@ -19,5 +19,5 @@ cyan(bold)=e53935
 white=80cbc4
 white(bold)=ffffff
 [Names]
-name0=Material Lighter
+name0=Base16 Material Lighter
 count=1

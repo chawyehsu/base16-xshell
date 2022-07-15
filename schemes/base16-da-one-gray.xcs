@@ -1,4 +1,4 @@
-[Da One Gray]
+[Base16 Da One Gray]
 text=ffffff
 text(bold)=ffffff
 background=181818
@@ -19,5 +19,5 @@ cyan(bold)=b3684f
 white=ffffff
 white(bold)=ffffff
 [Names]
-name0=Da One Gray
+name0=Base16 Da One Gray
 count=1

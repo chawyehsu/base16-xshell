@@ -1,4 +1,4 @@
-[Pasque]
+[Base16 Pasque]
 text=dedcdf
 text(bold)=dedcdf
 background=271c3a
@@ -19,5 +19,5 @@ cyan(bold)=59325c
 white=dedcdf
 white(bold)=bbaadd
 [Names]
-name0=Pasque
+name0=Base16 Pasque
 count=1

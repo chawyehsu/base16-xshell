@@ -1,4 +1,4 @@
-[Framer]
+[Base16 Framer]
 text=d0d0d0
 text(bold)=d0d0d0
 background=181818
@@ -19,5 +19,5 @@ cyan(bold)=b15f4a
 white=d0d0d0
 white(bold)=eeeeee
 [Names]
-name0=Framer
+name0=Base16 Framer
 count=1

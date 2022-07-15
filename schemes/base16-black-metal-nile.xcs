@@ -1,4 +1,4 @@
-[Black Metal (Nile)]
+[Base16 Black Metal (Nile)]
 text=c1c1c1
 text(bold)=c1c1c1
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=444444
 white=c1c1c1
 white(bold)=c1c1c1
 [Names]
-name0=Black Metal (Nile)
+name0=Base16 Black Metal (Nile)
 count=1

@@ -1,4 +1,4 @@
-[Icy Dark]
+[Base16 Icy Dark]
 text=095b67
 text(bold)=095b67
 background=021012
@@ -19,5 +19,5 @@ cyan(bold)=0097a7
 white=095b67
 white(bold)=109cb0
 [Names]
-name0=Icy Dark
+name0=Base16 Icy Dark
 count=1

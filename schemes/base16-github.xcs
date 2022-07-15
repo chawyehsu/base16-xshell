@@ -1,4 +1,4 @@
-[Github]
+[Base16 Github]
 text=333333
 text(bold)=333333
 background=ffffff
@@ -19,5 +19,5 @@ cyan(bold)=333333
 white=333333
 white(bold)=ffffff
 [Names]
-name0=Github
+name0=Base16 Github
 count=1

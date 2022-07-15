@@ -1,4 +1,4 @@
-[Material Darker]
+[Base16 Material Darker]
 text=eeffff
 text(bold)=eeffff
 background=212121
@@ -19,5 +19,5 @@ cyan(bold)=ff5370
 white=eeffff
 white(bold)=ffffff
 [Names]
-name0=Material Darker
+name0=Base16 Material Darker
 count=1

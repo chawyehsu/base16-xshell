@@ -1,4 +1,4 @@
-[Primer Light]
+[Base16 Primer Light]
 text=2f363d
 text(bold)=2f363d
 background=fafbfc
@@ -19,5 +19,5 @@ cyan(bold)=a04100
 white=2f363d
 white(bold)=1b1f23
 [Names]
-name0=Primer Light
+name0=Base16 Primer Light
 count=1

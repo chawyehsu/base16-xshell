@@ -1,4 +1,4 @@
-[Shades of Purple]
+[Base16 Shades of Purple]
 text=c7c7c7
 text(bold)=c7c7c7
 background=1e1e3f
@@ -19,5 +19,5 @@ cyan(bold)=79e8fb
 white=c7c7c7
 white(bold)=ffffff
 [Names]
-name0=Shades of Purple
+name0=Base16 Shades of Purple
 count=1

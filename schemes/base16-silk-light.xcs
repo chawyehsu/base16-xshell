@@ -1,4 +1,4 @@
-[Silk Light]
+[Base16 Silk Light]
 text=385156
 text(bold)=385156
 background=e9f1ef
@@ -19,5 +19,5 @@ cyan(bold)=865369
 white=385156
 white(bold)=d2faff
 [Names]
-name0=Silk Light
+name0=Base16 Silk Light
 count=1

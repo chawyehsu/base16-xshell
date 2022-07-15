@@ -1,4 +1,4 @@
-[Darcula]
+[Base16 Darcula]
 text=a9b7c6
 text(bold)=a9b7c6
 background=2b2b2b
@@ -19,5 +19,5 @@ cyan(bold)=808080
 white=a9b7c6
 white(bold)=ffffff
 [Names]
-name0=Darcula
+name0=Base16 Darcula
 count=1

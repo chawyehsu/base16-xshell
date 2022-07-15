@@ -1,4 +1,4 @@
-[Atelier Estuary Light]
+[Base16 Atelier Estuary Light]
 text=5f5e4e
 text(bold)=5f5e4e
 background=f4f3ec
@@ -19,5 +19,5 @@ cyan(bold)=9d6c7c
 white=5f5e4e
 white(bold)=22221b
 [Names]
-name0=Atelier Estuary Light
+name0=Base16 Atelier Estuary Light
 count=1

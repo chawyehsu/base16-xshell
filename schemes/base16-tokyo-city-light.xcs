@@ -1,4 +1,4 @@
-[Tokyo City Light]
+[Base16 Tokyo City Light]
 text=343b59
 text(bold)=343b59
 background=fbfbfd
@@ -19,5 +19,5 @@ cyan(bold)=5a4a78
 white=343b59
 white(bold)=171d23
 [Names]
-name0=Tokyo City Light
+name0=Base16 Tokyo City Light
 count=1

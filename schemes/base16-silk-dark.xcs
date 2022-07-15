@@ -1,4 +1,4 @@
-[Silk Dark]
+[Base16 Silk Dark]
 text=c7dbdd
 text(bold)=c7dbdd
 background=0e3c46
@@ -19,5 +19,5 @@ cyan(bold)=9b647b
 white=c7dbdd
 white(bold)=d2faff
 [Names]
-name0=Silk Dark
+name0=Base16 Silk Dark
 count=1

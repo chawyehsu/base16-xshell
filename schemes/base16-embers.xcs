@@ -1,4 +1,4 @@
-[Embers]
+[Base16 Embers]
 text=a39a90
 text(bold)=a39a90
 background=16130f
@@ -19,5 +19,5 @@ cyan(bold)=825757
 white=a39a90
 white(bold)=dbd6d1
 [Names]
-name0=Embers
+name0=Base16 Embers
 count=1

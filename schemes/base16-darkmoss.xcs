@@ -1,4 +1,4 @@
-[darkmoss]
+[Base16 darkmoss]
 text=c7c7a5
 text(bold)=c7c7a5
 background=171e1f
@@ -19,5 +19,5 @@ cyan(bold)=d27b53
 white=c7c7a5
 white(bold)=e1eaef
 [Names]
-name0=darkmoss
+name0=Base16 darkmoss
 count=1

@@ -1,4 +1,4 @@
-[Brush Trees]
+[Base16 Brush Trees]
 text=6d828e
 text(bold)=6d828e
 background=e3efef
@@ -19,5 +19,5 @@ cyan(bold)=b39f9f
 white=6d828e
 white(bold)=485867
 [Names]
-name0=Brush Trees
+name0=Base16 Brush Trees
 count=1

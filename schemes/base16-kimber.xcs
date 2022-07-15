@@ -1,4 +1,4 @@
-[Kimber]
+[Base16 Kimber]
 text=dedee7
 text(bold)=dedee7
 background=222222
@@ -19,5 +19,5 @@ cyan(bold)=704f4f
 white=dedee7
 white(bold)=ffffe6
 [Names]
-name0=Kimber
+name0=Base16 Kimber
 count=1

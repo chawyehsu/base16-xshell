@@ -1,4 +1,4 @@
-[lime]
+[Base16 lime]
 text=818175
 text(bold)=818175
 background=1a1a2f
@@ -19,5 +19,5 @@ cyan(bold)=b4d97c
 white=818175
 white(bold)=fff8e1
 [Names]
-name0=lime
+name0=Base16 lime
 count=1

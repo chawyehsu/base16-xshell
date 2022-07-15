@@ -1,4 +1,4 @@
-[Gruvbox dark, pale]
+[Base16 Gruvbox dark, pale]
 text=dab997
 text(bold)=dab997
 background=262626
@@ -19,5 +19,5 @@ cyan(bold)=d65d0e
 white=dab997
 white(bold)=ebdbb2
 [Names]
-name0=Gruvbox dark, pale
+name0=Base16 Gruvbox dark, pale
 count=1

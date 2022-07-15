@@ -1,4 +1,4 @@
-[Apathy]
+[Base16 Apathy]
 text=81b5ac
 text(bold)=81b5ac
 background=031a16
@@ -19,5 +19,5 @@ cyan(bold)=3e965b
 white=81b5ac
 white(bold)=d2e7e4
 [Names]
-name0=Apathy
+name0=Base16 Apathy
 count=1

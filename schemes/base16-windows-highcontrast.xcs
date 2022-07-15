@@ -1,4 +1,4 @@
-[Windows High Contrast]
+[Base16 Windows High Contrast]
 text=c0c0c0
 text(bold)=c0c0c0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=008000
 white=c0c0c0
 white(bold)=fcfcfc
 [Names]
-name0=Windows High Contrast
+name0=Base16 Windows High Contrast
 count=1

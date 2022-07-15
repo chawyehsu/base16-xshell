@@ -1,4 +1,4 @@
-[Gruvbox dark, soft]
+[Base16 Gruvbox dark, soft]
 text=d5c4a1
 text(bold)=d5c4a1
 background=32302f
@@ -19,5 +19,5 @@ cyan(bold)=d65d0e
 white=d5c4a1
 white(bold)=fbf1c7
 [Names]
-name0=Gruvbox dark, soft
+name0=Base16 Gruvbox dark, soft
 count=1

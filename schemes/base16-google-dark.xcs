@@ -1,4 +1,4 @@
-[Google Dark]
+[Base16 Google Dark]
 text=c5c8c6
 text(bold)=c5c8c6
 background=1d1f21
@@ -19,5 +19,5 @@ cyan(bold)=3971ed
 white=c5c8c6
 white(bold)=ffffff
 [Names]
-name0=Google Dark
+name0=Base16 Google Dark
 count=1

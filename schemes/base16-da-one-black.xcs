@@ -1,4 +1,4 @@
-[Da One Black]
+[Base16 Da One Black]
 text=ffffff
 text(bold)=ffffff
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=b3684f
 white=ffffff
 white(bold)=ffffff
 [Names]
-name0=Da One Black
+name0=Base16 Da One Black
 count=1

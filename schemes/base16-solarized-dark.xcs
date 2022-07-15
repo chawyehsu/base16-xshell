@@ -1,4 +1,4 @@
-[Solarized Dark]
+[Base16 Solarized Dark]
 text=93a1a1
 text(bold)=93a1a1
 background=002b36
@@ -19,5 +19,5 @@ cyan(bold)=d33682
 white=93a1a1
 white(bold)=fdf6e3
 [Names]
-name0=Solarized Dark
+name0=Base16 Solarized Dark
 count=1

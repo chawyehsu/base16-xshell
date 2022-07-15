@@ -1,4 +1,4 @@
-[Material Vivid]
+[Base16 Material Vivid]
 text=80868b
 text(bold)=80868b
 background=202124
@@ -19,5 +19,5 @@ cyan(bold)=8d6e63
 white=80868b
 white(bold)=ffffff
 [Names]
-name0=Material Vivid
+name0=Base16 Material Vivid
 count=1

@@ -1,4 +1,4 @@
-[Spaceduck]
+[Base16 Spaceduck]
 text=ecf0c1
 text(bold)=ecf0c1
 background=16172d
@@ -19,5 +19,5 @@ cyan(bold)=ce6f8f
 white=ecf0c1
 white(bold)=ffffff
 [Names]
-name0=Spaceduck
+name0=Base16 Spaceduck
 count=1

@@ -1,4 +1,4 @@
-[Classic Dark]
+[Base16 Classic Dark]
 text=d0d0d0
 text(bold)=d0d0d0
 background=151515
@@ -19,5 +19,5 @@ cyan(bold)=8f5536
 white=d0d0d0
 white(bold)=f5f5f5
 [Names]
-name0=Classic Dark
+name0=Base16 Classic Dark
 count=1

@@ -1,4 +1,4 @@
-[Monokai]
+[Base16 Monokai]
 text=f8f8f2
 text(bold)=f8f8f2
 background=272822
@@ -19,5 +19,5 @@ cyan(bold)=cc6633
 white=f8f8f2
 white(bold)=f9f8f5
 [Names]
-name0=Monokai
+name0=Base16 Monokai
 count=1

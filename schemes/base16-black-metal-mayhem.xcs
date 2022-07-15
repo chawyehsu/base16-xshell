@@ -1,4 +1,4 @@
-[Black Metal (Mayhem)]
+[Base16 Black Metal (Mayhem)]
 text=c1c1c1
 text(bold)=c1c1c1
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=444444
 white=c1c1c1
 white(bold)=c1c1c1
 [Names]
-name0=Black Metal (Mayhem)
+name0=Base16 Black Metal (Mayhem)
 count=1

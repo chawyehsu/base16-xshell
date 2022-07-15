@@ -1,4 +1,4 @@
-[Windows 10 Light]
+[Base16 Windows 10 Light]
 text=767676
 text(bold)=767676
 background=f2f2f2
@@ -19,5 +19,5 @@ cyan(bold)=16c60c
 white=767676
 white(bold)=0c0c0c
 [Names]
-name0=Windows 10 Light
+name0=Base16 Windows 10 Light
 count=1

@@ -1,4 +1,4 @@
-[Still Alive]
+[Base16 Still Alive]
 text=d80000
 text(bold)=d80000
 background=f0f0f0
@@ -19,5 +19,5 @@ cyan(bold)=140c0d
 white=d80000
 white(bold)=30a860
 [Names]
-name0=Still Alive
+name0=Base16 Still Alive
 count=1

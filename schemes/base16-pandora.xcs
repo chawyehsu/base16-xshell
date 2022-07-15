@@ -1,4 +1,4 @@
-[pandora]
+[Base16 pandora]
 text=f15c99
 text(bold)=f15c99
 background=131213
@@ -19,5 +19,5 @@ cyan(bold)=a24030
 white=f15c99
 white(bold)=632227
 [Names]
-name0=pandora
+name0=Base16 pandora
 count=1

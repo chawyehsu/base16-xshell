@@ -1,4 +1,4 @@
-[3024]
+[Base16 3024]
 text=a5a2a2
 text(bold)=a5a2a2
 background=090300
@@ -19,5 +19,5 @@ cyan(bold)=cdab53
 white=a5a2a2
 white(bold)=f7f7f7
 [Names]
-name0=3024
+name0=Base16 3024
 count=1

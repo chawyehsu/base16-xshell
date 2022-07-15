@@ -1,4 +1,4 @@
-[Tokyo Night Terminal Dark]
+[Base16 Tokyo Night Terminal Dark]
 text=787c99
 text(bold)=787c99
 background=16161e
@@ -19,5 +19,5 @@ cyan(bold)=d18616
 white=787c99
 white(bold)=d5d6db
 [Names]
-name0=Tokyo Night Terminal Dark
+name0=Base16 Tokyo Night Terminal Dark
 count=1

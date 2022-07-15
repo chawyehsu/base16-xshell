@@ -1,4 +1,4 @@
-[Equilibrium Dark]
+[Base16 Equilibrium Dark]
 text=afaba2
 text(bold)=afaba2
 background=0c1118
@@ -19,5 +19,5 @@ cyan(bold)=e3488e
 white=afaba2
 white(bold)=e7e2d9
 [Names]
-name0=Equilibrium Dark
+name0=Base16 Equilibrium Dark
 count=1

@@ -1,4 +1,4 @@
-[Unikitty Dark]
+[Base16 Unikitty Dark]
 text=bcbabe
 text(bold)=bcbabe
 background=2e2a31
@@ -19,5 +19,5 @@ cyan(bold)=c720ca
 white=bcbabe
 white(bold)=f5f4f7
 [Names]
-name0=Unikitty Dark
+name0=Base16 Unikitty Dark
 count=1

@@ -1,4 +1,4 @@
-[Atelier Forest Light]
+[Base16 Atelier Forest Light]
 text=68615e
 text(bold)=68615e
 background=f1efee
@@ -19,5 +19,5 @@ cyan(bold)=c33ff3
 white=68615e
 white(bold)=1b1918
 [Names]
-name0=Atelier Forest Light
+name0=Base16 Atelier Forest Light
 count=1

@@ -1,4 +1,4 @@
-[Rosé Pine Dawn]
+[Base16 Rosé Pine Dawn]
 text=575279
 text(bold)=575279
 background=faf4ed
@@ -19,5 +19,5 @@ cyan(bold)=c5c3ce
 white=575279
 white(bold)=26233a
 [Names]
-name0=Rosé Pine Dawn
+name0=Base16 Rosé Pine Dawn
 count=1

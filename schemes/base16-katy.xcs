@@ -1,4 +1,4 @@
-[Katy]
+[Base16 Katy]
 text=959dcb
 text(bold)=959dcb
 background=292d3e
@@ -19,5 +19,5 @@ cyan(bold)=ff5370
 white=959dcb
 white(bold)=ffffff
 [Names]
-name0=Katy
+name0=Base16 Katy
 count=1

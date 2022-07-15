@@ -1,4 +1,4 @@
-[Humanoid dark]
+[Base16 Humanoid dark]
 text=f8f8f2
 text(bold)=f8f8f2
 background=232629
@@ -19,5 +19,5 @@ cyan(bold)=b27701
 white=f8f8f2
 white(bold)=fcfcfc
 [Names]
-name0=Humanoid dark
+name0=Base16 Humanoid dark
 count=1

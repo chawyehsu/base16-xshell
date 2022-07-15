@@ -1,4 +1,4 @@
-[Summerfruit Dark]
+[Base16 Summerfruit Dark]
 text=d0d0d0
 text(bold)=d0d0d0
 background=151515
@@ -19,5 +19,5 @@ cyan(bold)=cc6633
 white=d0d0d0
 white(bold)=ffffff
 [Names]
-name0=Summerfruit Dark
+name0=Base16 Summerfruit Dark
 count=1

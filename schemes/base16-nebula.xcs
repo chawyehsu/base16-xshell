@@ -1,4 +1,4 @@
-[Nebula]
+[Base16 Nebula]
 text=a4a6a9
 text(bold)=a4a6a9
 background=22273b
@@ -19,5 +19,5 @@ cyan(bold)=8c70a7
 white=a4a6a9
 white(bold)=8dbdaa
 [Names]
-name0=Nebula
+name0=Base16 Nebula
 count=1

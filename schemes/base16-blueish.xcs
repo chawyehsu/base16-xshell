@@ -1,4 +1,4 @@
-[better-contrast]
+[Base16 better-contrast]
 text=c8e1f8
 text(bold)=c8e1f8
 background=182430
@@ -19,5 +19,5 @@ cyan(bold)=bbd2e8
 white=c8e1f8
 white(bold)=8f98a0
 [Names]
-name0=better-contrast
+name0=Base16 better-contrast
 count=1

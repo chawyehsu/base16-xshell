@@ -1,4 +1,4 @@
-[Material Palenight]
+[Base16 Material Palenight]
 text=959dcb
 text(bold)=959dcb
 background=292d3e
@@ -19,5 +19,5 @@ cyan(bold)=ff5370
 white=959dcb
 white(bold)=ffffff
 [Names]
-name0=Material Palenight
+name0=Base16 Material Palenight
 count=1

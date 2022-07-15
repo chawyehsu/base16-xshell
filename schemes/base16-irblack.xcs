@@ -1,4 +1,4 @@
-[IR Black]
+[Base16 IR Black]
 text=b5b3aa
 text(bold)=b5b3aa
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=b18a3d
 white=b5b3aa
 white(bold)=fdfbee
 [Names]
-name0=IR Black
+name0=Base16 IR Black
 count=1

@@ -1,4 +1,4 @@
-[Ayu Dark]
+[Base16 Ayu Dark]
 text=e6e1cf
 text(bold)=e6e1cf
 background=0f1419
@@ -19,5 +19,5 @@ cyan(bold)=e6b673
 white=e6e1cf
 white(bold)=f3f4f5
 [Names]
-name0=Ayu Dark
+name0=Base16 Ayu Dark
 count=1

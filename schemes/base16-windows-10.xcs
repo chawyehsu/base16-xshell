@@ -1,4 +1,4 @@
-[Windows 10]
+[Base16 Windows 10]
 text=cccccc
 text(bold)=cccccc
 background=0c0c0c
@@ -19,5 +19,5 @@ cyan(bold)=13a10e
 white=cccccc
 white(bold)=f2f2f2
 [Names]
-name0=Windows 10
+name0=Base16 Windows 10
 count=1

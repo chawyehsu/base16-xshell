@@ -1,4 +1,4 @@
-[Paraiso]
+[Base16 Paraiso]
 text=a39e9b
 text(bold)=a39e9b
 background=2f1e2e
@@ -19,5 +19,5 @@ cyan(bold)=e96ba8
 white=a39e9b
 white(bold)=e7e9db
 [Names]
-name0=Paraiso
+name0=Base16 Paraiso
 count=1

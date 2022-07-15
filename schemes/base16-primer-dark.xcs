@@ -1,4 +1,4 @@
-[Primer Dark]
+[Base16 Primer Dark]
 text=b1bac4
 text(bold)=b1bac4
 background=010409
@@ -19,5 +19,5 @@ cyan(bold)=bd561d
 white=b1bac4
 white(bold)=f0f6fc
 [Names]
-name0=Primer Dark
+name0=Base16 Primer Dark
 count=1

@@ -1,4 +1,4 @@
-[Atlas]
+[Base16 Atlas]
 text=a1a19a
 text(bold)=a1a19a
 background=002635
@@ -19,5 +19,5 @@ cyan(bold)=c43060
 white=a1a19a
 white(bold)=fafaf8
 [Names]
-name0=Atlas
+name0=Base16 Atlas
 count=1

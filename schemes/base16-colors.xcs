@@ -1,4 +1,4 @@
-[Colors]
+[Base16 Colors]
 text=bbbbbb
 text(bold)=bbbbbb
 background=111111
@@ -19,5 +19,5 @@ cyan(bold)=85144b
 white=bbbbbb
 white(bold)=ffffff
 [Names]
-name0=Colors
+name0=Base16 Colors
 count=1

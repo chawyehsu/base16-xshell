@@ -1,4 +1,4 @@
-[Windows NT Light]
+[Base16 Windows NT Light]
 text=808080
 text(bold)=808080
 background=ffffff
@@ -19,5 +19,5 @@ cyan(bold)=00ff00
 white=808080
 white(bold)=000000
 [Names]
-name0=Windows NT Light
+name0=Base16 Windows NT Light
 count=1

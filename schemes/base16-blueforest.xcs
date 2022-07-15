@@ -1,4 +1,4 @@
-[Blue Forest]
+[Base16 Blue Forest]
 text=ffcc33
 text(bold)=ffcc33
 background=141f2e
@@ -19,5 +19,5 @@ cyan(bold)=e7e7e7
 white=ffcc33
 white(bold)=375780
 [Names]
-name0=Blue Forest
+name0=Base16 Blue Forest
 count=1

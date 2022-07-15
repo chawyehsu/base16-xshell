@@ -1,4 +1,4 @@
-[XCode Dusk]
+[Base16 XCode Dusk]
 text=939599
 text(bold)=939599
 background=282b35
@@ -19,5 +19,5 @@ cyan(bold)=c77c48
 white=939599
 white(bold)=bebfc2
 [Names]
-name0=XCode Dusk
+name0=Base16 XCode Dusk
 count=1

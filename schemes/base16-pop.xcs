@@ -1,4 +1,4 @@
-[Pop]
+[Base16 Pop]
 text=d0d0d0
 text(bold)=d0d0d0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=7a2d00
 white=d0d0d0
 white(bold)=ffffff
 [Names]
-name0=Pop
+name0=Base16 Pop
 count=1

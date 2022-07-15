@@ -1,4 +1,4 @@
-[Rosé Pine Moon]
+[Base16 Rosé Pine Moon]
 text=e0def4
 text(bold)=e0def4
 background=232136
@@ -19,5 +19,5 @@ cyan(bold)=b9b9bc
 white=e0def4
 white(bold)=d9d7e1
 [Names]
-name0=Rosé Pine Moon
+name0=Base16 Rosé Pine Moon
 count=1

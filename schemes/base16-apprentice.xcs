@@ -1,4 +1,4 @@
-[Apprentice]
+[Base16 Apprentice]
 text=bcbcbc
 text(bold)=bcbcbc
 background=262626
@@ -19,5 +19,5 @@ cyan(bold)=5f87af
 white=bcbcbc
 white(bold)=ffffff
 [Names]
-name0=Apprentice
+name0=Base16 Apprentice
 count=1

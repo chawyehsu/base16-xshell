@@ -1,4 +1,4 @@
-[Ocean]
+[Base16 Ocean]
 text=c0c5ce
 text(bold)=c0c5ce
 background=2b303b
@@ -19,5 +19,5 @@ cyan(bold)=ab7967
 white=c0c5ce
 white(bold)=eff1f5
 [Names]
-name0=Ocean
+name0=Base16 Ocean
 count=1

@@ -1,4 +1,4 @@
-[Atelier Cave]
+[Base16 Atelier Cave]
 text=8b8792
 text(bold)=8b8792
 background=19171c
@@ -19,5 +19,5 @@ cyan(bold)=bf40bf
 white=8b8792
 white(bold)=efecf4
 [Names]
-name0=Atelier Cave
+name0=Base16 Atelier Cave
 count=1

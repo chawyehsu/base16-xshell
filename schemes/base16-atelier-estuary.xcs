@@ -1,4 +1,4 @@
-[Atelier Estuary]
+[Base16 Atelier Estuary]
 text=929181
 text(bold)=929181
 background=22221b
@@ -19,5 +19,5 @@ cyan(bold)=9d6c7c
 white=929181
 white(bold)=f4f3ec
 [Names]
-name0=Atelier Estuary
+name0=Base16 Atelier Estuary
 count=1

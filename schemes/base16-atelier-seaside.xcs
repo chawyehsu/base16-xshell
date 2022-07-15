@@ -1,4 +1,4 @@
-[Atelier Seaside]
+[Base16 Atelier Seaside]
 text=8ca68c
 text(bold)=8ca68c
 background=131513
@@ -19,5 +19,5 @@ cyan(bold)=e619c3
 white=8ca68c
 white(bold)=f4fbf4
 [Names]
-name0=Atelier Seaside
+name0=Base16 Atelier Seaside
 count=1

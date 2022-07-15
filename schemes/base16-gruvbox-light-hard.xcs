@@ -1,4 +1,4 @@
-[Gruvbox light, hard]
+[Base16 Gruvbox light, hard]
 text=504945
 text(bold)=504945
 background=f9f5d7
@@ -19,5 +19,5 @@ cyan(bold)=d65d0e
 white=504945
 white(bold)=282828
 [Names]
-name0=Gruvbox light, hard
+name0=Base16 Gruvbox light, hard
 count=1

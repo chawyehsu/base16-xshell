@@ -1,4 +1,4 @@
-[DanQing]
+[Base16 DanQing]
 text=e0f0ef
 text(bold)=e0f0ef
 background=2d302f
@@ -19,5 +19,5 @@ cyan(bold)=ca6924
 white=e0f0ef
 white(bold)=fcfefd
 [Names]
-name0=DanQing
+name0=Base16 DanQing
 count=1

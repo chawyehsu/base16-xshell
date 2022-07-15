@@ -1,4 +1,4 @@
-[Gotham]
+[Base16 Gotham]
 text=599cab
 text(bold)=599cab
 background=0c1014
@@ -19,5 +19,5 @@ cyan(bold)=4e5166
 white=599cab
 white(bold)=d3ebe9
 [Names]
-name0=Gotham
+name0=Base16 Gotham
 count=1

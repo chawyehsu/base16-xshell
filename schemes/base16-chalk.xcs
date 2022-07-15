@@ -1,4 +1,4 @@
-[Chalk]
+[Base16 Chalk]
 text=d0d0d0
 text(bold)=d0d0d0
 background=151515
@@ -19,5 +19,5 @@ cyan(bold)=deaf8f
 white=d0d0d0
 white(bold)=f5f5f5
 [Names]
-name0=Chalk
+name0=Base16 Chalk
 count=1

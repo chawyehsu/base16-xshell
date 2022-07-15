@@ -1,4 +1,4 @@
-[Isotope]
+[Base16 Isotope]
 text=d0d0d0
 text(bold)=d0d0d0
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=3300ff
 white=d0d0d0
 white(bold)=ffffff
 [Names]
-name0=Isotope
+name0=Base16 Isotope
 count=1

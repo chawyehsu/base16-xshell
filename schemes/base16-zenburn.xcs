@@ -1,4 +1,4 @@
-[Zenburn]
+[Base16 Zenburn]
 text=dcdccc
 text(bold)=dcdccc
 background=383838
@@ -19,5 +19,5 @@ cyan(bold)=000000
 white=dcdccc
 white(bold)=ffffff
 [Names]
-name0=Zenburn
+name0=Base16 Zenburn
 count=1

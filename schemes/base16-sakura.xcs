@@ -1,4 +1,4 @@
-[Sakura]
+[Base16 Sakura]
 text=564448
 text(bold)=564448
 background=feedf3
@@ -19,5 +19,5 @@ cyan(bold)=ba0d35
 white=564448
 white(bold)=33292b
 [Names]
-name0=Sakura
+name0=Base16 Sakura
 count=1

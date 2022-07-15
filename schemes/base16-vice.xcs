@@ -1,4 +1,4 @@
-[vice]
+[Base16 vice]
 text=8b9cbe
 text(bold)=8b9cbe
 background=17191e
@@ -19,5 +19,5 @@ cyan(bold)=ff3d81
 white=8b9cbe
 white(bold)=f4f4f7
 [Names]
-name0=vice
+name0=Base16 vice
 count=1

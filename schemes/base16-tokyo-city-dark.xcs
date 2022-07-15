@@ -1,4 +1,4 @@
-[Tokyo City Dark]
+[Base16 Tokyo City Dark]
 text=d8e2ec
 text(bold)=d8e2ec
 background=171d23
@@ -19,5 +19,5 @@ cyan(bold)=bb9af7
 white=d8e2ec
 white(bold)=fbfbfd
 [Names]
-name0=Tokyo City Dark
+name0=Base16 Tokyo City Dark
 count=1

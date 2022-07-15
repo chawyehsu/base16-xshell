@@ -1,4 +1,4 @@
-[Tokyodark]
+[Base16 Tokyodark]
 text=abb2bf
 text(bold)=abb2bf
 background=11121d
@@ -19,5 +19,5 @@ cyan(bold)=773440
 white=abb2bf
 white(bold)=2c2d38
 [Names]
-name0=Tokyodark
+name0=Base16 Tokyodark
 count=1

@@ -1,4 +1,4 @@
-[Porple]
+[Base16 Porple]
 text=d8d8d8
 text(bold)=d8d8d8
 background=292c36
@@ -19,5 +19,5 @@ cyan(bold)=986841
 white=d8d8d8
 white(bold)=f8f8f8
 [Names]
-name0=Porple
+name0=Base16 Porple
 count=1

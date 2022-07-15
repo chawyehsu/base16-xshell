@@ -1,4 +1,4 @@
-[Humanoid light]
+[Base16 Humanoid light]
 text=232629
 text(bold)=232629
 background=f8f8f2
@@ -19,5 +19,5 @@ cyan(bold)=b27701
 white=232629
 white(bold)=070708
 [Names]
-name0=Humanoid light
+name0=Base16 Humanoid light
 count=1

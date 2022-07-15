@@ -1,4 +1,4 @@
-[Horizon Dark]
+[Base16 Horizon Dark]
 text=cbced0
 text(bold)=cbced0
 background=1c1e26
@@ -19,5 +19,5 @@ cyan(bold)=e4a382
 white=cbced0
 white(bold)=e3e6ee
 [Names]
-name0=Horizon Dark
+name0=Base16 Horizon Dark
 count=1

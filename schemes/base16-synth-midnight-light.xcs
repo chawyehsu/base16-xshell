@@ -1,4 +1,4 @@
-[Synth Midnight Terminal Light]
+[Base16 Synth Midnight Terminal Light]
 text=28292a
 text(bold)=28292a
 background=dddfe0
@@ -19,5 +19,5 @@ cyan(bold)=cd6320
 white=28292a
 white(bold)=050608
 [Names]
-name0=Synth Midnight Terminal Light
+name0=Base16 Synth Midnight Terminal Light
 count=1

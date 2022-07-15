@@ -1,4 +1,4 @@
-[Woodland]
+[Base16 Woodland]
 text=cabcb1
 text(bold)=cabcb1
 background=231e18
@@ -19,5 +19,5 @@ cyan(bold)=b49368
 white=cabcb1
 white(bold)=e4d4c8
 [Names]
-name0=Woodland
+name0=Base16 Woodland
 count=1

@@ -1,4 +1,4 @@
-[Equilibrium Gray Light]
+[Base16 Equilibrium Gray Light]
 text=474747
 text(bold)=474747
 background=f1f1f1
@@ -19,5 +19,5 @@ cyan(bold)=c42775
 white=474747
 white(bold)=1b1b1b
 [Names]
-name0=Equilibrium Gray Light
+name0=Base16 Equilibrium Gray Light
 count=1

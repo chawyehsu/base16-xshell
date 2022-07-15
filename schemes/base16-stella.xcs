@@ -1,4 +1,4 @@
-[Stella]
+[Base16 Stella]
 text=998bad
 text(bold)=998bad
 background=2b213c
@@ -19,5 +19,5 @@ cyan(bold)=c7ab87
 white=998bad
 white(bold)=ebdcff
 [Names]
-name0=Stella
+name0=Base16 Stella
 count=1

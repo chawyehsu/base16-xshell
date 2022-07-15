@@ -1,4 +1,4 @@
-[Atelier Savanna]
+[Base16 Atelier Savanna]
 text=87928a
 text(bold)=87928a
 background=171c19
@@ -19,5 +19,5 @@ cyan(bold)=867469
 white=87928a
 white(bold)=ecf4ee
 [Names]
-name0=Atelier Savanna
+name0=Base16 Atelier Savanna
 count=1

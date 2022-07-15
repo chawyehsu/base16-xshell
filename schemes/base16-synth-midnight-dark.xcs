@@ -1,4 +1,4 @@
-[Synth Midnight Terminal Dark]
+[Base16 Synth Midnight Terminal Dark]
 text=c1c3c4
 text(bold)=c1c3c4
 background=050608
@@ -19,5 +19,5 @@ cyan(bold)=cd6320
 white=c1c3c4
 white(bold)=dddfe0
 [Names]
-name0=Synth Midnight Terminal Dark
+name0=Base16 Synth Midnight Terminal Dark
 count=1

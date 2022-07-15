@@ -1,4 +1,4 @@
-[PaperColor Dark]
+[Base16 PaperColor Dark]
 text=808080
 text(bold)=808080
 background=1c1c1c
@@ -19,5 +19,5 @@ cyan(bold)=5f8787
 white=808080
 white(bold)=d0d0d0
 [Names]
-name0=PaperColor Dark
+name0=Base16 PaperColor Dark
 count=1

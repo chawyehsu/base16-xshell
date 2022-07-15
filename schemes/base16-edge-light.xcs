@@ -1,4 +1,4 @@
-[Edge Light]
+[Base16 Edge Light]
 text=5e646f
 text(bold)=5e646f
 background=fafafa
@@ -19,5 +19,5 @@ cyan(bold)=509c93
 white=5e646f
 white(bold)=5e646f
 [Names]
-name0=Edge Light
+name0=Base16 Edge Light
 count=1

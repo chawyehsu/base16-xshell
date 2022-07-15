@@ -1,4 +1,4 @@
-[Black Metal (Khold)]
+[Base16 Black Metal (Khold)]
 text=c1c1c1
 text(bold)=c1c1c1
 background=000000
@@ -19,5 +19,5 @@ cyan(bold)=444444
 white=c1c1c1
 white(bold)=c1c1c1
 [Names]
-name0=Black Metal (Khold)
+name0=Base16 Black Metal (Khold)
 count=1

@@ -1,4 +1,4 @@
-[Gigavolt]
+[Base16 Gigavolt]
 text=e9e7e1
 text(bold)=e9e7e1
 background=202126
@@ -19,5 +19,5 @@ cyan(bold)=6187ff
 white=e9e7e1
 white(bold)=f2fbff
 [Names]
-name0=Gigavolt
+name0=Base16 Gigavolt
 count=1

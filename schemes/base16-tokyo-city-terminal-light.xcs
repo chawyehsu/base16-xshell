@@ -1,4 +1,4 @@
-[Tokyo City Terminal Light]
+[Base16 Tokyo City Terminal Light]
 text=28323a
 text(bold)=28323a
 background=fbfbfd
@@ -19,5 +19,5 @@ cyan(bold)=7e5140
 white=28323a
 white(bold)=171d23
 [Names]
-name0=Tokyo City Terminal Light
+name0=Base16 Tokyo City Terminal Light
 count=1

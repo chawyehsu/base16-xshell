@@ -1,4 +1,4 @@
-[OceanicNext]
+[Base16 OceanicNext]
 text=c0c5ce
 text(bold)=c0c5ce
 background=1b2b34
@@ -19,5 +19,5 @@ cyan(bold)=ab7967
 white=c0c5ce
 white(bold)=d8dee9
 [Names]
-name0=OceanicNext
+name0=Base16 OceanicNext
 count=1

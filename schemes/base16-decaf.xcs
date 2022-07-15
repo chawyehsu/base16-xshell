@@ -1,4 +1,4 @@
-[Decaf]
+[Base16 Decaf]
 text=cccccc
 text(bold)=cccccc
 background=2d2d2d
@@ -19,5 +19,5 @@ cyan(bold)=ff93b3
 white=cccccc
 white(bold)=ffffff
 [Names]
-name0=Decaf
+name0=Base16 Decaf
 count=1

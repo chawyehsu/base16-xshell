@@ -1,4 +1,4 @@
-[emil]
+[Base16 emil]
 text=313145
 text(bold)=313145
 background=efefef
@@ -19,5 +19,5 @@ cyan(bold)=8d17a5
 white=313145
 white(bold)=1a1a2f
 [Names]
-name0=emil
+name0=Base16 emil
 count=1

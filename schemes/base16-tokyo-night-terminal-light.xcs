@@ -1,4 +1,4 @@
-[Tokyo Night Terminal Light]
+[Base16 Tokyo Night Terminal Light]
 text=4c505e
 text(bold)=4c505e
 background=d5d6db
@@ -19,5 +19,5 @@ cyan(bold)=655259
 white=4c505e
 white(bold)=1a1b26
 [Names]
-name0=Tokyo Night Terminal Light
+name0=Base16 Tokyo Night Terminal Light
 count=1

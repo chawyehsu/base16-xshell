@@ -1,4 +1,4 @@
-[Marrakesh]
+[Base16 Marrakesh]
 text=948e48
 text(bold)=948e48
 background=201602
@@ -19,5 +19,5 @@ cyan(bold)=b3588e
 white=948e48
 white(bold)=faf0a5
 [Names]
-name0=Marrakesh
+name0=Base16 Marrakesh
 count=1

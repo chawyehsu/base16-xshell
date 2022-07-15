@@ -1,4 +1,4 @@
-[Unikitty Reversible]
+[Base16 Unikitty Reversible]
 text=c3c2c4
 text(bold)=c3c2c4
 background=2e2a31
@@ -19,5 +19,5 @@ cyan(bold)=d41acd
 white=c3c2c4
 white(bold)=ffffff
 [Names]
-name0=Unikitty Reversible
+name0=Base16 Unikitty Reversible
 count=1
